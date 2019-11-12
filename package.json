@@ -1,0 +1,22 @@
+{
+  "name": "memlyfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajarshi1/memlyfy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajarshi1/memlyfy/issues"
+  },
+  "homepage": "https://github.com/rajarshi1/memlyfy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
